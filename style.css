@@ -1,0 +1,5 @@
+.captions-view .caption .word,
+.captions-view .caption .ignored,
+.captions-view .word.quiz-clip-preview-active-word {
+    vertical-align: bottom !important;
+}
